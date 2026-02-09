@@ -1,0 +1,2 @@
+// The application's SVG logo, base64 encoded. This is used as the default for PDF exports.
+export const defaultLogoBase64 = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUwIDEwIEw4NSA0MCBIMTUgWiIgZmlsbD0iIzNiODJmNiIvPjxwYXRoIGQ9Ik00MCA5MCBMMjUgNDAgSDc1IEw2MCA5MCBaIiBmaWxsPSIjZmFjYzE1Ii8+PC9zdmc+';
